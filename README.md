@@ -1,4 +1,4 @@
-# exponential
+# Javier Solís García
 **Best with:** Python · PyTorch · Docker · Time Series · Diffusion & Consistency Models · DL · ML · Research  
 **Familiar with:** LangChain · Agents · Biotech Applications · Java · Django · Flask
 
